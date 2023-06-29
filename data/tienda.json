@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Remera Blanca-Verd",
+    "description": "Remera overzise blanca y verde",
+    "price": 3400,
+    "img": "https://res.cloudinary.com/dhtgiy7ji/image/upload/v1684179724/remera2_qmidru.png",
+    "category": "t-shirt",
+    "id": 1,
+    "cantidad": 0
+  },
+  {
+    "name": "Remera Blanca-Gris",
+    "description": "Remera overzise blanca y gris",
+    "price": 3400,
+    "img": "https://res.cloudinary.com/dhtgiy7ji/image/upload/v1684179724/remera1_tf63es.png",
+    "category": "t-shirt",
+    "id": 2,
+    "cantidad": 0
+  },
+  {
+    "name": "Remera Blanca-Naranja",
+    "description": "Remera overzise blanca y naranja",
+    "price": 3400,
+    "img": "https://res.cloudinary.com/dhtgiy7ji/image/upload/v1684179724/remera3_sh8qlb.png",
+    "category": "t-shirt",
+    "id": 3,
+    "cantidad": 0
+  },
+
+  {
+    "name": "Libreta Bordo",
+    "description": "Libreta con costura de tela reforzada color bordo",
+    "price": 600,
+    "img": "https://res.cloudinary.com/dhtgiy7ji/image/upload/v1684189799/libreta3_j5xzg8.png",
+    "category": "notebooks",
+    "id": 4,
+    "cantidad": 0
+  },
+  {
+    "name": "Libreta Verde",
+    "description": "Libreta con costura de tela reforzada color verde",
+    "price": 600,
+    "img": "https://res.cloudinary.com/dhtgiy7ji/image/upload/v1684189799/libreta2_qrkltm.png",
+    "category": "notebooks",
+    "id": 5,  
+    "cantidad": 0
+  },
+  {
+    "name": "Libreta Azul",
+    "description": "Libreta con costura de tela reforzada color azul",
+    "price": 600,
+    "img": "https://res.cloudinary.com/dhtgiy7ji/image/upload/v1684189799/libreta1_kdyxtm.png",
+    "category": "notebooks",
+    "id": 6,
+    "cantidad": 0
+  },
+  {
+    "name": "Funda Iphone 14ProMax",
+    "description": "Funda de celular de cilicona con vidrio reforzado transparente",
+    "price": 3500,
+    "img": "https://res.cloudinary.com/dhtgiy7ji/image/upload/v1684267980/Captura_hhu6h4.png",
+    "category": "phoneCase",
+    "id": 10,
+    "cantidad": 0
+  },
+  {
+    "name": "Funda Iphone 13",
+    "description": "Funda de celular de cilicona de color violeta",
+    "price": 2500,
+    "img": "https://res.cloudinary.com/dhtgiy7ji/image/upload/v1684268649/Captura2_rgttec.png",
+    "category": "phoneCase",
+    "id": 11,
+    "cantidad": 0
+  },
+  {
+    "name": "Funda Iphone 13ProMax",
+    "description": "Funda de celular de cilicona verde claro",
+    "price": 2500,
+    "img": "https://res.cloudinary.com/dhtgiy7ji/image/upload/v1684269087/Captura3_pipfwt.png",
+    "category": "phoneCase",
+    "id": 12,
+    "cantidad": 0
+  }
+]
